@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a try at simple jasmine",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npx jasmine"
   },
