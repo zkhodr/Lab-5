@@ -1,0 +1,14 @@
+{
+  "name": "jan16jasminetake2",
+  "version": "1.0.0",
+  "description": "a try at simple jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "author": "Rich Hildred",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
