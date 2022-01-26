@@ -10,4 +10,6 @@ npm install
 npm test
 ```
 
+The test is in the spec folder. The unit under test is functions.js.
+
 
